@@ -1,6 +1,6 @@
 # Leeeetcode-Solution in py3
 
-| Problems | Level | ethod |
+| Problems | Level | Method |
 | -- | -- | -- |
 | 58. Length of Last Word | Easy | |
 | 66. Plus One | Easy | |
