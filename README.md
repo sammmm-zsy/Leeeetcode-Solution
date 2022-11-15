@@ -11,4 +11,4 @@
 |  |  |  |
 |  |  |  |
 | 617. Merge Two Binary Trees | Easy | DPS & BPS |
-|  |  |  |
+| 116. Populating Next Right Pointers in Each Node | Middle | Recursion |
